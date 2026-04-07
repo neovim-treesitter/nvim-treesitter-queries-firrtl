@@ -1,7 +1,6 @@
 {
-  "url": "https://github.com/tree-sitter-grammars/tree-sitter-firrtl",
-  "semver": false,
   "parser_version": "8503d3a0fe0f9e427863cb0055699ff2d29ae5f5",
-  "location": null,
-  "lang": "firrtl"
+  "lang": "firrtl",
+  "url": "https://github.com/tree-sitter-grammars/tree-sitter-firrtl",
+  "semver": false
 }
